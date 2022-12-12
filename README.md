@@ -4,6 +4,5 @@
 - 📫 Contact me on Discord: 'NxztRush#0669'.
 
 <!---
-NxztRushDEV/NxztRushDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+NxztRushDEV/NxztRushDEV is Bad.
 --->
