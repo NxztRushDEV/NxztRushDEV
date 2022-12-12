@@ -4,5 +4,5 @@
 - 📫 Contact me on Discord: 'NxztRush#0669'.
 
 <!---
-NxztRushDEV/NxztRushDEV is Bad.
+NxztRushDEV/NxztRushDEV is Bad. `README.md`
 --->
